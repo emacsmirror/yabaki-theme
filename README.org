@@ -4,7 +4,7 @@
 [[https://melpa.org/#/yabaki-theme][file:https://melpa.org/packages/yabaki-theme-badge.svg]]
 [[https://stable.melpa.org/#/yabaki-theme][file:https://stable.melpa.org/packages/yabaki-theme-badge.svg]]
 
-/This package is considered stable, though [[https://github.com/seamacs/yabaki-theme/pulls][pull requests]] are welcome/
+/This package is considered stable, though [[https://codeberg.org/seahorse/yabaki-theme/pulls][pull requests]] are welcome/
 
 A dark, bright-coloured theme for GNU Emacs
 
@@ -37,7 +37,7 @@ A dark, bright-coloured theme for GNU Emacs
 
 ** Manual
 
-=git clone https://github.com/seamacs/yabaki-theme.git=
+=git clone https://codeberg.org/seahorse/yabaki-theme.git=
 
 #+begin_src emacs-lisp
 (add-to-list 'custom-theme-load-path "~/path/to/yabaki-theme")
