@@ -5,7 +5,7 @@
 ;; Author: David Goudou <david.goudou@gmail.com>
 ;; Version: 2.0.0
 ;; Package-Requires: ((emacs "27.1"))
-;; Homepage: https://github.com/seamacs/yabaki-theme
+;; Homepage: https://codeberg.org/seahorse/yabaki-theme
 
 ;; This file is not part of GNU Emacs.
 
